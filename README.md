@@ -92,6 +92,3 @@ This project is created for **learning, portfolio, and data analytics practice**
 📍 India  
 
 Feel free to ⭐ this repository if you find it useful!
-
-
-## 📂 Project Structure
